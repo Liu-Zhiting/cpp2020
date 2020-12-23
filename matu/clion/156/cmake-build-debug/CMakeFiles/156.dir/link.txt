@@ -1,3 +1,0 @@
-"D:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\156.dir/objects.a
-D:\mingw64\bin\ar.exe cr CMakeFiles\156.dir/objects.a @CMakeFiles\156.dir\objects1.rsp
-D:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\156.dir/objects.a -Wl,--no-whole-archive  -o 156.exe -Wl,--out-implib,lib156.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\156.dir\linklibs.rsp
