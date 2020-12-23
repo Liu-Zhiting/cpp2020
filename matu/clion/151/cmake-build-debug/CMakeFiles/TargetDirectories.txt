@@ -1,3 +1,0 @@
-E:/clion/151/cmake-build-debug/CMakeFiles/151.dir
-E:/clion/151/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/clion/151/cmake-build-debug/CMakeFiles/rebuild_cache.dir
