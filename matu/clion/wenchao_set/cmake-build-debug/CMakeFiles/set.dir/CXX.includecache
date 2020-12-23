@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/clion/set/CSet.h
+iostream
+-
+
+E:/clion/set/main.cpp
+iostream
+-
+CSet.h
+E:/clion/set/CSet.h
+
